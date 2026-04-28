@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Senior Full Stack Developer | Data Engineering | Microservices Architect | Open Source Contributor
+  🚀 Software Engineer | Data Engineering | Microservices Architect | Open Source Contributor
 </h3>
 
 <p align="center">
